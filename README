@@ -1,4 +1,18 @@
-Estruturas de Dados: Fila (Queue) e Pilha (Stack)
+Estruturas de Dados: Fila (Queue), Pilha (Stack) e Árvore (Tree)
+Este repositório contém explicações e exemplos práticos sobre as seguintes estruturas de dados fundamentais:
 
+Fila (Queue): Implementação básica de filas, demonstrando operações como enfileirar e desenfileirar.
+Pilha (Stack): Implementação básica de pilhas, demonstrando operações como empilhar e desempilhar.
+Árvore (Tree): Nova adição ao repositório, incluindo a implementação de uma Árvore Binária de Busca (Binary Search Tree), com suporte para inserção, busca e travessia em ordem.
+Objetivo
+Este repositório foi criado para demonstrar o básico das estruturas de dados, facilitando a avaliação técnica por parte de recrutadores. As implementações foram projetadas para serem simples e diretas, servindo como um ponto de partida para discussões sobre estruturas de dados e algoritmos.
 
-Este repositório contém explicações e exemplos práticos sobre as estruturas de dados Fila (Queue) e Pilha (Stack), so para demonstra o basico para os recrutadores. Proximas release vai ter Arvores entre outras estruturas 
+Próximas Releases
+Planejamos adicionar exemplos de outras estruturas de dados e algoritmos, como:
+
+Árvores avançadas (AVL, Red-Black Tree, etc.)
+Grafos (Graph)
+Tabelas Hash (Hash Table)
+Outros algoritmos clássicos.
+Fique atento às futuras atualizações!
+
