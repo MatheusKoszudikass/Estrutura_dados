@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Debug 
+Queue/bin/
+Stack/bin/
+Tree/bin/
+
+Queue/obj/
+Stack/obj/
+Tree/obj/
